@@ -21,3 +21,9 @@ a {
     font-size: 21px;
     color: gray;
 }
+
+.foot {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
